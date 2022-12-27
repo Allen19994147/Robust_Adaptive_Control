@@ -1,4 +1,5 @@
-# Robust Adaptive Control #Inverted Pendulum Control
+# Robust Adaptive Control 
+#Inverted Pendulum Control
 
 Used Adaptive Control to estimate parameters of a simple inverted pendulum. Those parameters are assumed to be constant but unknown.
 
